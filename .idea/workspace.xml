@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caa2cd29-5309-44b8-a2e2-5d63855f2cf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1Yazdwt5dfsUPqft749kxi6hUEe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build demo0303_switch语句 (4)">
+    <configuration name="go build demo0303_switch语句 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0303_switch语句" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo3_阻塞式读取.go" />
+      <package value="demo0303_switch语句" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo0303_switch语句 (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0303_switch语句" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo4_switch.go" />
+      <package value="demo0303_switch语句" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo0303_switch语句 (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0303_switch语句" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo5_switch特点.go" />
+      <package value="demo0303_switch语句" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo0303_switch语句 (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0303_switch语句" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo6_switch练习.go" />
+      <package value="demo0303_switch语句" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo2_if语句中的作用域.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0303_switch语句" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo2_if语句中的作用域.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build demo0303_switch语句 (4)" />
+        <item itemvalue="Go Build.go build demo0303_switch语句 (3)" />
+        <item itemvalue="Go Build.go build demo0303_switch语句 (2)" />
+        <item itemvalue="Go Build.go build demo0303_switch语句 (1)" />
+        <item itemvalue="Go Build.go build demo2_if语句中的作用域.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="40" key="#go_build_demo0303_switch语句" timestamp="1583196742612">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0303_switch语句/0.0.1280.760@0.0.1280.760" timestamp="1583196742612" />
+    <state x="366" y="40" key="#go_build_demo0303_switch语句_(1)" timestamp="1583197288299">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0303_switch语句_(1)/0.0.1280.760@0.0.1280.760" timestamp="1583197288299" />
+    <state x="366" y="40" key="#go_build_demo0303_switch语句_(2)" timestamp="1583199775495">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0303_switch语句_(2)/0.0.1280.760@0.0.1280.760" timestamp="1583199775495" />
+    <state x="366" y="40" key="#go_build_demo0303_switch语句_(3)" timestamp="1583200077507">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0303_switch语句_(3)/0.0.1280.760@0.0.1280.760" timestamp="1583200077507" />
+    <state x="366" y="40" key="#go_build_demo0303_switch语句_(4)" timestamp="1583201090338">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0303_switch语句_(4)/0.0.1280.760@0.0.1280.760" timestamp="1583201090338" />
+    <state width="1219" height="136" key="GridCell.Tab.0.bottom" timestamp="1583201354335">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="136" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1583201354335" />
+    <state width="1219" height="136" key="GridCell.Tab.0.center" timestamp="1583201354335">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="136" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1583201354335" />
+    <state width="1219" height="136" key="GridCell.Tab.0.left" timestamp="1583201354335">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="136" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1583201354335" />
+    <state width="1219" height="136" key="GridCell.Tab.0.right" timestamp="1583201354335">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="136" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1583201354335" />
+  </component>
+</project>
